@@ -260,3 +260,10 @@ paket-files/
 __pycache__/
 *.pyc
 /Assemblies
+Languages/.DS_Store
+Defs/.DS_Store
+Languages/Russian/.DS_Store
+Languages/Russian/DefInjected/.DS_Store
+Textures/PawnBadge/.DS_Store
+Textures/.DS_Store
+.DS_Store

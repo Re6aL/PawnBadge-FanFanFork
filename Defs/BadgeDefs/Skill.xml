@@ -56,6 +56,13 @@
 		<icon>PawnBadge/Skill/Animal</icon>
 		<fromBaseMod>True</fromBaseMod>
 	</RR_PawnBadge.BadgeDef>
+		<!-- Animal 2 -->
+	<RR_PawnBadge.BadgeDef>
+		<defName>Skill_Animal2</defName>
+		<label>Animal2</label>
+		<description>Skill - Animal2</description>
+		<icon>PawnBadge/Skill/Animal2</icon>
+	</RR_PawnBadge.BadgeDef>
 	
 	<!-- Art -->
 	<RR_PawnBadge.BadgeDef>
@@ -64,6 +71,13 @@
 		<description>Skill - Art</description>
 		<icon>PawnBadge/Skill/Art</icon>
 		<fromBaseMod>True</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
+		<!-- Art 2 -->
+	<RR_PawnBadge.BadgeDef>
+		<defName>Skill_Art2</defName>
+		<label>Art2</label>
+		<description>Skill - Art2</description>
+		<icon>PawnBadge/Skill/Art2</icon>
 	</RR_PawnBadge.BadgeDef>
 	
 	<!-- Cleaning -->
@@ -82,6 +96,13 @@
 		<description>Skill - Construction</description>
 		<icon>PawnBadge/Skill/Construction</icon>
 		<fromBaseMod>True</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
+		<!-- Construction 2 --> 
+	<RR_PawnBadge.BadgeDef>
+		<defName>Skill_Construction2</defName>
+		<label>Construction2</label>
+		<description>Skill - Construction2</description>
+		<icon>PawnBadge/Skill/Construction2</icon>
 	</RR_PawnBadge.BadgeDef>
 	
 	<!-- Firefight -->
@@ -138,7 +159,6 @@
 		<fromBaseMod>True</fromBaseMod>
 	</RR_PawnBadge.BadgeDef>
 	
-	
 	<!-- Crafting -->
 	<RR_PawnBadge.BadgeDef>
 		<defName>Skill_Crafting</defName>
@@ -147,7 +167,6 @@
 		<icon>PawnBadge/Skill/Crafting</icon>
 		<fromBaseMod>True</fromBaseMod>
 	</RR_PawnBadge.BadgeDef>
-	
 	
 	<!-- Fishing -->
 	<RR_PawnBadge.BadgeDef>

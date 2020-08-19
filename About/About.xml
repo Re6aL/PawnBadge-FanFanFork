@@ -19,7 +19,7 @@ Requires Hugslib.
 Credits:
 - Rangel Reale, the original author of the mod.
 - LeninsCat, for fixing the manifest error message and providing excellent updated textures.</description>
-  <packageId>SaucyPigeon.PawnBadge.Fork</packageId>
+  <packageId>SaucyPigeon.PawnBadge.Fork.Fork</packageId>
   <modDependencies>
   </modDependencies>
   <loadAfter>

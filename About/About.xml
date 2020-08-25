@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Pawn Badge Fan Fan Fork</name>
-	<author>Updated by Saucy_Pigeon</author>
+	<author>Updated by Saucy_Pigeon forked Яебал</author>
 	<url></url>
 	<supportedVersions>
 		<li>1.0</li>
 		<li>1.1</li>
 		<li>1.2</li>
 	</supportedVersions>
-	<description>The fan fork of the mod "Pawn Badge" originally by Rangel Reale which allows adding up to two informative badges to the colonist bar.
-  
-Any badge mods made for the original mod will be compatible with this mod.
-
-Can be safely added and removed from save games.
-
+	<description>The fan fan fork of the mod "Pawn Badge" originally by Rangel Reale which allows adding up to two informative badges to the colonist bar.
+I made a version with all badges i need and mostly my own which are better. why collecting this all unnessesary addons.
 Requires Harmony (versions 1.1/1.2 only).
 
 Credits:
 - Rangel Reale, the original author of the mod.
-- LeninsCat, for fixing the manifest error message and providing excellent updated textures.</description>
-	<packageId>SaucyPigeon.PawnBadge.Fork</packageId>
+- LeninsCat, for fixing the manifest error message and providing excellent updated textures.
+(Яебал: this textures are shit so i deleted them how thefuck they are exellent fuck this shit, i made my own and kept some from original and pirated a lot from addons. you not supposed to read this but if you do - have a good day!)</description>
+	<packageId>SaucyPigeon.PawnBadge.Rebal.Fork</packageId>
 	<modDependencies>
 		<li>
 			<packageId>brrainz.harmony</packageId>

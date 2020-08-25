@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Private -->
+
+  <Militar_Private.label>Militar - Private</Militar_Private.label>
+  <Militar_Private.description>US Militar Rank - Private</Militar_Private.description>
+
+
+  <!-- Private First Class -->
+
+  <Militar_PrivateFC.label>Militar - Private First Class</Militar_PrivateFC.label>
+  <Militar_PrivateFC.description>US Militar Rank - Private First Class</Militar_PrivateFC.description>
+
+
+  <!-- Corporal -->
+
+  <Militar_Corporal.label>Militar - Corporal</Militar_Corporal.label>
+  <Militar_Corporal.description>US Militar Rank - Corporal</Militar_Corporal.description>
+
+
+  <!-- Sergeant -->
+
+  <Militar_Sergeant.label>Militar - Sergeant</Militar_Sergeant.label>
+  <Militar_Sergeant.description>US Militar Rank - Sergeant</Militar_Sergeant.description>
+
+
+  <!-- Staff Sergeant -->
+
+  <Militar_Staff_Sergeant.label>Militar - Staff Sergeant</Militar_Staff_Sergeant.label>
+  <Militar_Staff_Sergeant.description>US Militar Rank - Staff Sergeant</Militar_Staff_Sergeant.description>
+
+
+  <!-- Master Sergeant -->
+
+  <Militar_Master_Sergeant.label>Militar - Master Sergeant</Militar_Master_Sergeant.label>
+  <Militar_Master_Sergeant.description>US Militar Rank - Master Sergeant</Militar_Master_Sergeant.description>
+
+
+  <!-- First Sergeant -->
+
+  <Militar_First_Sergeant.label>Militar - First Sergeant</Militar_First_Sergeant.label>
+  <Militar_First_Sergeant.description>US Militar Rank - First Sergeant</Militar_First_Sergeant.description>
+
+
+  <!-- Sergeant Major -->
+
+  <Militar_Sergeant_Major.label>Militar - Sergeant Major</Militar_Sergeant_Major.label>
+  <Militar_Sergeant_Major.description>US Militar Rank - Sergeant Major</Militar_Sergeant_Major.description>
+
+
+</LanguageData>

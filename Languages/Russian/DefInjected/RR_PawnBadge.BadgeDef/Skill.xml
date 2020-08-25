@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shooting -->
+
+  <Skill_Shooting.label>Shooting</Skill_Shooting.label>
+  <Skill_Shooting.description>Skill - Shooting</Skill_Shooting.description>
+
+
+  <!-- Melee -->
+
+  <Skill_Melee.label>Melee</Skill_Melee.label>
+  <Skill_Melee.description>Skill - Melee</Skill_Melee.description>
+
+
+  <!-- Cooking -->
+
+  <Skill_Cooking.label>Cooking</Skill_Cooking.label>
+  <Skill_Cooking.description>Skill - Cooking</Skill_Cooking.description>
+
+
+  <!-- Medicine -->
+
+  <Skill_Medicine.label>Medicine</Skill_Medicine.label>
+  <Skill_Medicine.description>Medicine Skill</Skill_Medicine.description>
+
+
+  <!-- Hauling -->
+
+  <Skill_Hauling.label>Hauling</Skill_Hauling.label>
+  <Skill_Hauling.description>Skill - Hauling</Skill_Hauling.description>
+
+
+  <!-- Animal -->
+
+  <Skill_Animal.label>Animal</Skill_Animal.label>
+  <Skill_Animal.description>Skill - Animal</Skill_Animal.description>
+
+
+  <!-- Art -->
+
+  <Skill_Art.label>Art</Skill_Art.label>
+  <Skill_Art.description>Skill - Art</Skill_Art.description>
+
+
+  <!-- Cleaning -->
+
+  <Skill_Cleaning.label>Cleaning</Skill_Cleaning.label>
+  <Skill_Cleaning.description>Skill - Cleaning</Skill_Cleaning.description>
+
+
+  <!-- Construction -->
+
+  <Skill_Construction.label>Construction</Skill_Construction.label>
+  <Skill_Construction.description>Skill - Construction</Skill_Construction.description>
+
+
+  <!-- Firefight -->
+
+  <Skill_Firefight.label>Firefight</Skill_Firefight.label>
+  <Skill_Firefight.description>Skill - Firefight</Skill_Firefight.description>
+
+
+  <!-- Intellectual -->
+
+  <Skill_Intellectual.label>Intellectual</Skill_Intellectual.label>
+  <Skill_Intellectual.description>Skill - Intellectual</Skill_Intellectual.description>
+
+
+  <!-- Mining -->
+
+  <Skill_Mining.label>Mining</Skill_Mining.label>
+  <Skill_Mining.description>Skill - Mining</Skill_Mining.description>
+
+
+  <!-- Plant -->
+
+  <Skill_Plant.label>Plant</Skill_Plant.label>
+  <Skill_Plant.description>Skill - Plant</Skill_Plant.description>
+
+
+  <!-- Social -->
+
+  <Skill_Social.label>Social</Skill_Social.label>
+  <Skill_Social.description>Skill - Social</Skill_Social.description>
+
+
+  <!-- Trade -->
+
+  <Skill_Trade.label>Trade</Skill_Trade.label>
+  <Skill_Trade.description>Skill - Trade</Skill_Trade.description>
+
+
+</LanguageData>

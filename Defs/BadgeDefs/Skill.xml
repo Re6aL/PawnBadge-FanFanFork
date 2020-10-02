@@ -29,6 +29,14 @@
 		<icon>PawnBadge/Skill/Cooking</icon>
 		<fromBaseMod>True</fromBaseMod>
 	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>Skill_Cooking1</defName>
+		<label>Cooking1</label>
+		<description>Skill - Cooking</description>
+		<icon>PawnBadge/Skill/Cooking1</icon>
+		<fromBaseMod>True</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
 	
 	<!-- Medicine -->
 	<RR_PawnBadge.BadgeDef>
@@ -167,6 +175,14 @@
 		<icon>PawnBadge/Skill/Crafting</icon>
 		<fromBaseMod>True</fromBaseMod>
 	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>Skill_Craft</defName>
+		<label>Craft</label>
+		<description>Skill - Craft</description>
+		<icon>PawnBadge/Skill/Craft</icon>
+		<fromBaseMod>True</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
 	
 	<!-- Fishing -->
 	<RR_PawnBadge.BadgeDef>
@@ -175,6 +191,41 @@
 		<description>Skill - Fishing</description>
 		<icon>PawnBadge/Skill/Fishing</icon>
 		<fromBaseMod>True</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>Skill_WARDEN</defName>
+		<label>Warden</label>
+		<description>Warden</description>
+		<icon>PawnBadge/Skill/warden</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>Skill_SMITH</defName>
+		<label>Smith</label>
+		<description>Smith</description>
+		<icon>PawnBadge/Skill/smith</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>Skill_RESEARCH</defName>
+		<label>Research</label>
+		<description>Research</description>
+		<icon>PawnBadge/Skill/research</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>Skill_PLANTCUT</defName>
+		<label>Plantcut</label>
+		<description>Plantcut</description>
+		<icon>PawnBadge/Skill/plantcut</icon>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>skill_TAILOR</defName>
+		<label>Tailor</label>
+		<description>Tailor</description>
+		<icon>PawnBadge/Skill/tailor</icon>
 	</RR_PawnBadge.BadgeDef>
 	
 </Defs>

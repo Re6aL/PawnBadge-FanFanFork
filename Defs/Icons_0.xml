@@ -191,14 +191,14 @@
 	</RR_PawnBadge.BadgeDef>
 	
 	<RR_PawnBadge.BadgeDef>
-		<defName>HAULING 4</defName>
+		<defName>HAULING_4</defName>
 		<label>Hauling 4</label>
 		<description>Hauling 4</description>
 		<icon>PawnBadge/hauling-4</icon>
 	</RR_PawnBadge.BadgeDef>
 	
 	<RR_PawnBadge.BadgeDef>
-		<defName>HAULING 5</defName>
+		<defName>HAULING_5</defName>
 		<label>Hauling 5</label>
 		<description>Hauling 5</description>
 		<icon>PawnBadge/hauling-5</icon>
@@ -324,42 +324,42 @@
 	</RR_PawnBadge.BadgeDef>
 	
 	<RR_PawnBadge.BadgeDef>
-		<defName>ORGAN 4</defName>
+		<defName>ORGAN_4</defName>
 		<label>Organ 4</label>
 		<description>Organ 4</description>
 		<icon>PawnBadge/organ-4</icon>
 	</RR_PawnBadge.BadgeDef>
 	
 	<RR_PawnBadge.BadgeDef>
-		<defName>ORGAN 5</defName>
+		<defName>ORGAN_5</defName>
 		<label>Organ 5</label>
 		<description>Organ 5</description>
 		<icon>PawnBadge/organ-5</icon>
 	</RR_PawnBadge.BadgeDef>
 	
 	<RR_PawnBadge.BadgeDef>
-		<defName>ORGAN 6</defName>
+		<defName>ORGAN_6</defName>
 		<label>Organ 6</label>
 		<description>Organ 6</description>
 		<icon>PawnBadge/organ-6</icon>
 	</RR_PawnBadge.BadgeDef>
 	
 	<RR_PawnBadge.BadgeDef>
-		<defName>ORGAN 7</defName>
+		<defName>ORGAN_7</defName>
 		<label>Organ 7</label>
 		<description>Organ 7</description>
 		<icon>PawnBadge/organ-7</icon>
 	</RR_PawnBadge.BadgeDef>
 	
 	<RR_PawnBadge.BadgeDef>
-		<defName>ORGAN 8</defName>
+		<defName>ORGAN_8</defName>
 		<label>Organ 8</label>
 		<description>Organ 8</description>
 		<icon>PawnBadge/organ-8</icon>
 	</RR_PawnBadge.BadgeDef>
 	
 	<RR_PawnBadge.BadgeDef>
-		<defName>ORGAN 9</defName>
+		<defName>ORGAN_9</defName>
 		<label>Organ 9</label>
 		<description>Organ 9</description>
 		<icon>PawnBadge/organ-9</icon>
@@ -387,7 +387,7 @@
 	</RR_PawnBadge.BadgeDef>
 	
 	<RR_PawnBadge.BadgeDef>
-		<defName>PLANTS 4</defName>
+		<defName>PLANTS_4</defName>
 		<label>Plants 4</label>
 		<description>Plants 4</description>
 		<icon>PawnBadge/plants-4</icon>
@@ -415,7 +415,7 @@
 	</RR_PawnBadge.BadgeDef>
 	
 	<RR_PawnBadge.BadgeDef>
-		<defName>RESEARCHER 4</defName>
+		<defName>RESEARCHER_4</defName>
 		<label>Researcher 4</label>
 		<description>Researcher 4</description>
 		<icon>PawnBadge/researcher-4</icon>
